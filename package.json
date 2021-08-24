@@ -1,0 +1,10 @@
+{
+  "name": "takayama-service",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/takayama-lily/takayama-service.git",
+  "author": "takayama <takayama@foxmail.com>",
+  "dependencies": {
+    "mjsoul": "^2.3.0"
+  }
+}
