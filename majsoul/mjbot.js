@@ -204,7 +204,7 @@ class Bot extends EventEmitter {
                     res_login = await this.lobby.sendAsync("login", {
                         account: account,
                         password: this.lobby.hash(password),
-                        client_version_string: "web-0.9.245",
+                        client_version_string: "web-0.9.302",
                         type: isNaN(account) ? 0 : 1
                     })
                     resolve()
